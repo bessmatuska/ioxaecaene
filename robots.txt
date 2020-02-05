@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cooriafef.thanhpdo.com/sitemap.xml
